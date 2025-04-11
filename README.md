@@ -1,11 +1,12 @@
 <<<<<<< HEAD
-# MACNet
-Efficient Multi-Aspect Compensation Network for Small Object Detection in SAR Images
-=======
+
+
+
 <div align="center">
-<h1>FFENet </h1>
-<h3>Efficient Feature Focus Enhanced Network for Small and Dense Object Detection in SAR Images</h3>
+<h1>MACNet </h1>
+<h3>Efficient Multi-Aspect Compensation Network for Small Object Detection in SAR Images</h3>
 </div>
+
 
 
 Based on the **[MMdetection](https://github.com/open-mmlab/mmdetection) 3.1.0** framework, this project modifies its data flow and related classes and functions, and changes the MMdetection to a  detection framework to facilitate **SAR Object Detection**.
